@@ -17,7 +17,7 @@ namespace MOD_BAL
         public dbentityEntities db = new dbentityEntities();
         
         // Get All 
-
+        //
         public List<UserDtl> getAllRegistered()
         {
             try
