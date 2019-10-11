@@ -14,7 +14,7 @@ namespace MOD_BAL
   public  class user
     {
 
-        public MyEntity db = new MyEntity();
+        public dbentityEntities db = new dbentityEntities();
         
         // Get All 
 
